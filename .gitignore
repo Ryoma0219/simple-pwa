@@ -1,0 +1,6 @@
+*.swp
+.vscode/
+node_modules
+.firebase
+.firebaserc
+firebase.json
